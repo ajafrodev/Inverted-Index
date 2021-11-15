@@ -1,0 +1,16 @@
+Word to retrieve: purdu
+(https://www.cs.purdue.edu/about/welcome.html, 9)
+(https://www.cs.purdue.edu/about/diversity.html, 7)
+(https://www.cs.purdue.edu/about/awards_organization.html, 18)
+Word to retrieve: tool
+(https://www.cs.purdue.edu/about/awards_organization.html, 2)
+(https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/coronavirus-self-checker.html, 4)
+Word to retrieve: coronaviru
+(https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/coronavirus-self-checker.html, 9)
+Word to retrieve: midwest
+(https://www.cs.purdue.edu/about/diversity.html, 1)
+Word to retrieve: teacher
+(https://www.cs.purdue.edu/about/diversity.html, 1)
+(https://www.cs.purdue.edu/about/awards_organization.html, 6)
+(https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/coronavirus-self-checker.html, 1)
+Word to retrieve: 
